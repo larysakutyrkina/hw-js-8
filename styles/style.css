@@ -1,0 +1,8 @@
+body {
+    background-color: lavender;
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
+    justify-items: space-between;
+    max-width: 1280px;
+    margin: 100px;
+}
